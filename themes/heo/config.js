@@ -17,9 +17,9 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '拥抱WEB3.0',
   HEO_HERO_TITLE_2: '享受这个世界',
-  HEO_HERO_TITLE_3: 'TANGLY1024.COM',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
+  HEO_HERO_TITLE_3: '',
+  HEO_HERO_TITLE_4: '最新资讯',
+  HEO_HERO_TITLE_5: '那些我们错过的优质项目',
   HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
 
   // 英雄区显示三个置顶分类
