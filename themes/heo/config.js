@@ -1,7 +1,7 @@
 const CONFIG = {
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '2021-09-24', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2024-05-09', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
@@ -20,7 +20,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: '',
   HEO_HERO_TITLE_4: '最新资讯',
   HEO_HERO_TITLE_5: '那些我们错过的优质项目',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_LINK: '',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '撸毛教程', url: '/tag/撸毛教程' },
