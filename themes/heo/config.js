@@ -19,7 +19,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '践行者-行歌',
   HEO_HERO_TITLE_3: '0924',
   HEO_HERO_TITLE_4: '最新资讯',
-  HEO_HERO_TITLE_5: '那些我们错过的优质项目',
+  HEO_HERO_TITLE_5: '博主力荐的宝藏内容',
   HEO_HERO_TITLE_LINK: '',
 
   // 英雄区显示三个置顶分类
