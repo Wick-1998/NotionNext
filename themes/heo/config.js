@@ -49,58 +49,58 @@ const CONFIG = {
     {
       title_1: 'AfterEffect',
       img_1: '/images/heo/BNB.webp',
-      color_1: '#989bf8',
+      color_1: '#F0B90B',
       title_2: 'Sketch',
-      img_2: '/images/heo/2023e0ded7b724a39f12d59c3dc8fbdc7cbe074202.webp',
-      color_2: '#ffffff'
+      img_2: '/images/heo/USDT.webp',
+      color_2: '#50AF95'
     },
     {
       title_1: 'Docker',
-      img_1: '/images/heo/20231108a540b2862d26f8850172e4ea58ed075102.webp',
-      color_1: '#57b6e6',
+      img_1: '/images/heo/DOGE.webp',
+      color_1: '#FFFFFF',
       title_2: 'Photoshop',
-      img_2: '/images/heo/2023e4058a91608ea41751c4f102b131f267075902.webp',
-      color_2: '#4082c3'
+      img_2: '/images/heo/UNI.webp',
+      color_2: '#FFFFFF'
     },
     {
       title_1: 'FinalCutPro',
-      img_1: '/images/heo/20233e777652412247dd57fd9b48cf997c01070702.webp',
-      color_1: '#ffffff',
+      img_1: '/images/heo/LTC.webp',
+      color_1: '#345D9D',
       title_2: 'Python',
-      img_2: '/images/heo/20235c0731cd4c0c95fc136a8db961fdf963071502.webp',
-      color_2: '#ffffff'
+      img_2: '/images/heo/TIA.webp',
+      color_2: '#7B2BF9'
     },
     {
       title_1: 'Swift',
-      img_1: '/images/heo/202328bbee0b314297917b327df4a704db5c072402.webp',
-      color_1: '#eb6840',
+      img_1: '/images/heo/SOL.webp',
+      color_1: '#FFFFF',
       title_2: 'Principle',
-      img_2: '/images/heo/2023f76570d2770c8e84801f7e107cd911b5073202.webp',
-      color_2: '#8f55ba'
+      img_2: '/images/heo/ETH.webp',
+      color_2: '#FFFFFF'
     },
     {
       title_1: 'illustrator',
-      img_1: '/images/heo/BNB.webp',
-      color_1: '#1A1B20',
+      img_1: '/images/heo/BTC.webp',
+      color_1: '#F7931A',
       title_2: 'CSS3',
-      img_2: '/images/heo/20237c548846044a20dad68a13c0f0e1502f074602.webp',
-      color_2: '#2c51db'
+      img_2: '/images/heo/AVAX.webp',
+      color_2: '#E84142'
     },
     {
       title_1: 'JS',
-      img_1: '/images/heo/2023786e7fc488f453d5fb2be760c96185c0075502.webp',
-      color_1: '#f7cb4f',
+      img_1: '/images/heo/OP.webp',
+      color_1: '#FF0420',
       title_2: 'HTML',
-      img_2: '/images/heo/202372b4d760fd8a497d442140c295655426070302.webp',
-      color_2: '#e9572b'
+      img_2: '/images/heo/USDC.webp',
+      color_2: '#2775CA'
     },
     {
       title_1: 'Git',
-      img_1: '/images/heo/2023ffa5707c4e25b6beb3e6a3d286ede4c6071102.webp',
-      color_1: '#df5b40',
+      img_1: '/images/heo/ARB.webp',
+      color_1: '#FFFFF',
       title_2: 'Rhino',
-      img_2: '/images/heo/20231ca53fa0b09a3ff1df89acd7515e9516173302.webp',
-      color_2: '#1f1f1f'
+      img_2: '/images/heo/PEPE.webp',
+      color_2: '#3D8130'
     }
   ],
 
