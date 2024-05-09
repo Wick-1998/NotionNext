@@ -15,9 +15,9 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '拥抱WEB3.0',
-  HEO_HERO_TITLE_2: '享受这个世界',
-  HEO_HERO_TITLE_3: '',
+  HEO_HERO_TITLE_1: 'WEB-3.0',
+  HEO_HERO_TITLE_2: '践行者-行歌',
+  HEO_HERO_TITLE_3: '0924',
   HEO_HERO_TITLE_4: '最新资讯',
   HEO_HERO_TITLE_5: '那些我们错过的优质项目',
   HEO_HERO_TITLE_LINK: '',
