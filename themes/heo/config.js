@@ -5,12 +5,12 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '终有一日同风起', url: '' },
-    { title: '扶摇直上九万里', url: '' }
+    { title: '终有一日同风起', url: 'https://www.btcxing.com/' },
+    { title: '扶摇直上九万里', url: 'https://www.btcxing.com/' }
   ],
 
   // 英雄区左右侧组件颠倒位置
-  HEO_HERO_REVERSE: false,
+  HEO_HERO_REVERSE: true,
   // 博客主体区左右侧组件颠倒位置
   HEO_HERO_BODY_REVERSE: false,
 
