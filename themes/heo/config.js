@@ -19,7 +19,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: 'WEB-3.0',
   HEO_HERO_TITLE_3: '----',
   HEO_HERO_TITLE_4: '武林秘籍',
-  HEO_HERO_TITLE_5: '行歌-推荐的优质内容',
+  HEO_HERO_TITLE_5: '行歌-推荐的宝藏内容',
   HEO_HERO_TITLE_LINK: '',
 
   // 英雄区显示三个置顶分类
@@ -36,9 +36,9 @@ const CONFIG = {
   HEO_INFOCARD_GREETINGS: [
     
     '🔍 阿尔法猎手',
-    '🤝 专修交互与设计',
+    '🤝 挖掘金狗专业户',
     '🏃 脚踏实地行动派',
-    '🏠 智能家居小能手',
+    '🏠 白嫖薅毛小能手',
     '🤖️ 数码科技爱好者',
     '🧱 团队小组发动机'
   ],
