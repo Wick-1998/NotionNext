@@ -15,11 +15,11 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: 'WEB-3.0',
-  HEO_HERO_TITLE_2: '践行者-行歌',
+  HEO_HERO_TITLE_1: '践行者-行歌',
+  HEO_HERO_TITLE_2: 'WEB-3.0',
   HEO_HERO_TITLE_3: '----',
-  HEO_HERO_TITLE_4: '最新资讯',
-  HEO_HERO_TITLE_5: '行歌-推荐的宝藏内容',
+  HEO_HERO_TITLE_4: '武林秘籍',
+  HEO_HERO_TITLE_5: '行歌-推荐的优质内容',
   HEO_HERO_TITLE_LINK: '',
 
   // 英雄区显示三个置顶分类
