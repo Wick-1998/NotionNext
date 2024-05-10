@@ -18,7 +18,7 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '践行者-行歌',
   HEO_HERO_TITLE_2: '',
   HEO_HERO_TITLE_3: 'WEB-3.0',
-  HEO_HERO_TITLE_4: '武林秘籍',
+  HEO_HERO_TITLE_4: '',
   HEO_HERO_TITLE_5: '行歌-推荐的宝藏内容',
   HEO_HERO_TITLE_LINK: '',
 
